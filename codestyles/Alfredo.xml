@@ -21,8 +21,8 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
   </codeStyleSettings>
 </code_scheme>
