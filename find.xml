@@ -5,5 +5,38 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.bat" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.b</mask>
+      <mask>*.ba</mask>
+      <mask>*.batdo</mask>
+      <mask>*.batd</mask>
+      <mask>d*.bat</mask>
+      <mask>do*.bat</mask>
+      <mask>doc*.bat</mask>
+      <mask>docs*.bat</mask>
+      <mask>docs/*.bat</mask>
+      <mask>docs/d*.bat</mask>
+      <mask>docs/de*.bat</mask>
+      <mask>docs/dep*.bat</mask>
+      <mask>docs/depl*.bat</mask>
+      <mask>docs/deplo*.bat</mask>
+      <mask>docs/deploy*.bat</mask>
+      <mask>docs/deploy/*.bat</mask>
+      <mask>deploy/*.bat</mask>
+      <mask>*.bat</mask>
+    </recentFileMasks>
   </component>
 </application>
