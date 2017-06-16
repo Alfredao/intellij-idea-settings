@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Alfredao/p21bot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Alfredao/tradebot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\P21 Sistemas\web\node\bot" />
+    <option name="cloneParentDir" value="C:\P21 Sistemas\web\node\trade" />
   </component>
 </application>
