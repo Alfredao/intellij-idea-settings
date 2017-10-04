@@ -5,38 +5,5 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
-    <recentFileMasks>
-      <mask>d*.bat</mask>
-      <mask>do*.bat</mask>
-      <mask>doc*.bat</mask>
-      <mask>docs*.bat</mask>
-      <mask>docs/*.bat</mask>
-      <mask>docs/d*.bat</mask>
-      <mask>docs/de*.bat</mask>
-      <mask>docs/dep*.bat</mask>
-      <mask>docs/depl*.bat</mask>
-      <mask>docs/deplo*.bat</mask>
-      <mask>docs/deploy*.bat</mask>
-      <mask>docs/deploy/*.bat</mask>
-      <mask>deploy/*.bat</mask>
-      <mask>*.bat</mask>
-      <mask>*.ba</mask>
-      <mask>*.b</mask>
-      <mask>*</mask>
-      <mask>*t</mask>
-      <mask>*ts</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ph</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
