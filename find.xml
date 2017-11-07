@@ -17,8 +17,8 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ph</mask>
       <mask>*</mask>
+      <mask>*.ph</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
