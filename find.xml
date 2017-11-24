@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -28,6 +28,13 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*Co.php</mask>
+      <mask>*Con.php</mask>
+      <mask>*Cont.php</mask>
+      <mask>*Contro.php</mask>
+      <mask>*Control.php</mask>
+      <mask>*Controlle.php</mask>
+      <mask>*Controller.php</mask>
     </recentFileMasks>
   </component>
 </application>
