@@ -3,19 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="index.phtml" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.phtml</mask>
-      <mask>*.phtm</mask>
-      <mask>*.pht</mask>
-      <mask>*.pho</mask>
       <mask>*.ph=</mask>
       <mask>*Co.php</mask>
       <mask>*Con.php</mask>
@@ -31,10 +20,21 @@
       <mask>*php</mask>
       <mask>*ph</mask>
       <mask>*p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>i</mask>
+      <mask>in</mask>
+      <mask>ind</mask>
+      <mask>inde</mask>
+      <mask>index</mask>
+      <mask>index.</mask>
+      <mask>index.p</mask>
+      <mask>index.ph</mask>
+      <mask>index.pht</mask>
+      <mask>index.phtm</mask>
+      <mask>index.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
