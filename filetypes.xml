@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="p7s" type="Native" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
