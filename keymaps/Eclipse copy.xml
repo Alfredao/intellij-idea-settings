@@ -3,7 +3,5 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="ctrl b" />
-  </action>
+  <action id="tasks.close" />
 </keymap>
