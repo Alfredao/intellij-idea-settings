@@ -1,7 +1,7 @@
 <templateSet group="Doctrine">
 	<template name="qbeco" value="echo $qb-&gt;getQuery()-&gt;getSQL();&#10;exit;" shortcut="TAB" description="Echo querybuilder" toReformat="true" toShortenFQNames="true">
 		<context>
-		<option name="PHP Statement" value="true" />
+			<option name="PHP Statement" value="true" />
 		</context>
 	</template>
 	<templateSet group="Doctrine">
@@ -14,19 +14,7 @@
 		<variable name="INVERSE_COL" expression="" defaultValue="" alwaysStopAt="true" />
 		<variable name="TABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
 		<context>
-		  <option name="HTML_TEXT" value="false" />
-		  <option name="HTML" value="false" />
-		  <option name="XSL_TEXT" value="false" />
-		  <option name="XML" value="false" />
-		  <option name="SQL" value="false" />
-		  <option name="CSS_PROPERTY_VALUE" value="false" />
-		  <option name="CSS_DECLARATION_BLOCK" value="false" />
-		  <option name="CSS_RULESET_LIST" value="false" />
-		  <option name="CSS" value="false" />
-		  <option name="JAVA_SCRIPT" value="false" />
-		  <option name="TypeScript" value="false" />
-		  <option name="PHP" value="true" />
-		  <option name="OTHER" value="false" />
+			<option name="PHP Statement" value="true" />
 		</context>
 	  </template>
 	  <template name="oto" value="/**&#10; * @ORM\OneToOne(targetEntity=&quot;$TYPE$&quot;, $COMPLETE$=&quot;$INVERSE_PROPERTY$&quot;$END$, cascade={&quot;persist&quot;})&#10; * @ORM\JoinColumn(name=&quot;$PROPERTY$_id&quot;, referencedColumnName=&quot;id&quot;)&#10; * @var $TYPE$&#10; */&#10;protected $$$PROPERTY$;" description="OneToOne property" toReformat="true" toShortenFQNames="true">
@@ -35,19 +23,7 @@
 		<variable name="COMPLETE" expression="enum(&quot;inversedBy&quot;, &quot;mappedBy&quot;)" defaultValue="inversedBy" alwaysStopAt="true" />
 		<variable name="INVERSE_PROPERTY" expression="" defaultValue="" alwaysStopAt="true" />
 		<context>
-		  <option name="HTML_TEXT" value="false" />
-		  <option name="HTML" value="false" />
-		  <option name="XSL_TEXT" value="false" />
-		  <option name="XML" value="false" />
-		  <option name="SQL" value="false" />
-		  <option name="CSS_PROPERTY_VALUE" value="false" />
-		  <option name="CSS_DECLARATION_BLOCK" value="false" />
-		  <option name="CSS_RULESET_LIST" value="false" />
-		  <option name="CSS" value="false" />
-		  <option name="JAVA_SCRIPT" value="false" />
-		  <option name="TypeScript" value="false" />
-		  <option name="PHP" value="true" />
-		  <option name="OTHER" value="false" />
+			<option name="PHP Statement" value="true" />
 		</context>
 	  </template>
 	  <template name="mto" value="/**&#10; * @ORM\ManyToOne(targetEntity=&quot;$TYPE$&quot;, inversedBy=&quot;$OTHER_PROPERTY$&quot;$END$, cascade={&quot;persist&quot;})&#10; * @ORM\JoinColumn(name=&quot;$COL$_id&quot;, referencedColumnName=&quot;id&quot;)&#10; * @var $TYPE$&#10; */&#10;protected $$$PROPERTY$;" description="ManyToOne property" toReformat="true" toShortenFQNames="true">
@@ -56,19 +32,7 @@
 		<variable name="COL" expression="" defaultValue="" alwaysStopAt="true" />
 		<variable name="OTHER_PROPERTY" expression="" defaultValue="" alwaysStopAt="true" />
 		<context>
-		  <option name="HTML_TEXT" value="false" />
-		  <option name="HTML" value="false" />
-		  <option name="XSL_TEXT" value="false" />
-		  <option name="XML" value="false" />
-		  <option name="SQL" value="false" />
-		  <option name="CSS_PROPERTY_VALUE" value="false" />
-		  <option name="CSS_DECLARATION_BLOCK" value="false" />
-		  <option name="CSS_RULESET_LIST" value="false" />
-		  <option name="CSS" value="false" />
-		  <option name="JAVA_SCRIPT" value="false" />
-		  <option name="TypeScript" value="false" />
-		  <option name="PHP" value="true" />
-		  <option name="OTHER" value="false" />
+			<option name="PHP Statement" value="true" />
 		</context>
 	  </template>
 	  <template name="otm" value="/**&#10; * @ORM\OneToMany(targetEntity=&quot;$TYPE$&quot;, mappedBy=&quot;$OTHER_PROPERTY$&quot;$END$, cascade={&quot;persist&quot;})&#10; * @var $TYPE$[]|\Doctrine\Common\Collections\ArrayCollection&#10; */&#10;protected $$$PROPERTY$;" description="OneToMany property" toReformat="true" toShortenFQNames="true">
