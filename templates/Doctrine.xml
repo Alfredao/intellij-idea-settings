@@ -1,0 +1,7 @@
+<templateSet group="Doctrine">
+  <template name="qbeco" value="echo $qb-&gt;getQuery()-&gt;getSQL();&#10;exit;" shortcut="TAB" description="Echo querybuilder" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
