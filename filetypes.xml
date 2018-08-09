@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
