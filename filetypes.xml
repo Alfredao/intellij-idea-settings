@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="old" type="Native" />
       <mapping ext="pem" type="Native" />
     </extensionMap>
   </component>
