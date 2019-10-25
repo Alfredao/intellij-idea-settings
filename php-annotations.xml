@@ -5,6 +5,7 @@
         <UseAliasOption>
           <option name="alias" value="Assert" />
           <option name="className" value="Symfony\Component\Validator\Constraints" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
         <UseAliasOption>
           <option name="alias" value="ORM" />
@@ -13,26 +14,32 @@
         <UseAliasOption>
           <option name="alias" value="DI" />
           <option name="className" value="JMS\DiExtraBundle\Annotation" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
         <UseAliasOption>
           <option name="alias" value="Serializer" />
           <option name="className" value="JMS\Serializer\Annotation" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
         <UseAliasOption>
           <option name="alias" value="Gedmo" />
           <option name="className" value="Gedmo\Mapping\Annotation" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
         <UseAliasOption>
           <option name="alias" value="Vich" />
           <option name="className" value="Vich\UploaderBundle\Mapping\Annotation" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
         <UseAliasOption>
           <option name="alias" value="Rest" />
           <option name="className" value="FOS\RestBundle\Controller\Annotations" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
         <UseAliasOption>
           <option name="alias" value="SWG" />
           <option name="className" value="Swagger\Annotations" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
       </list>
     </option>
